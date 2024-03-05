@@ -1,0 +1,138 @@
+.hotel_reserv {
+text-align: left;
+margin: 90px 0 0 0;
+
+}
+
+.header_star {
+   margin: 0 0 20px 0;
+}
+
+
+.icon-star {
+    padding: 0 20px 0px 0;
+
+
+}
+.icon-star:last-child{
+    padding: 0 0 0px 0;
+
+}
+
+.header_h1 {
+    font-size: 36px;
+    font-weight: bold;
+    color: white;
+    width: 480px;
+    margin: 20px 0 20px 0;
+
+}
+.header_button-booking {
+padding: 16px 24px;
+margin: 20px 0 0 0;
+border-radius: 8px;
+border: none;
+cursor: pointer;
+font-size: 13px;
+font-weight: 500;
+line-height: 18px;
+font-size: 18px;
+color: white;
+background-color: #3D324F;
+     
+}
+.header_best-offers {
+    margin: 144px 0 0 0 ;
+}
+.best-offers {
+    text-align: left;
+    margin: 0 0 45px 0;
+    color: white;
+    font-size: 24px;
+    line-height: 140%;
+    font-weight: 500;
+}
+.header_hotel-numbers {
+    display: flex;
+    justify-content: left;
+    margin: 24px 0 0 0;
+}
+
+.header_hotel_number {
+    display: flex; 
+    align-items: center; 
+    background-color:  rgba(255,255,255,35%);
+    border-radius: 16px;
+    margin: 0 32px 0 0;
+}
+.header_hotel_number:last-child{
+    margin: 0 0 0 0;
+}
+
+.hotel-numbers-img {
+    align-items: center;
+    border-radius: 12px;
+    width: 128px;
+    height: 128px;
+    margin: 20px 0 20px 24px;
+}
+.hotel-number-conteiner{
+text-align: center;
+padding: 0 40px 0 28px;
+color: white;
+}
+
+.hotel-number-text-hot {
+font-size: 15px;
+line-height: 15px;
+}
+.hotel-number-text-num{
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.hotel-number-btn {
+    padding: 12px 20px;
+    border-radius: 8px;
+    background-color: #3D324F;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+.hotel-number-btn:hover {
+    background-color: #2C2540;
+}
+
+
+
+/* .description {
+    padding: 100px 0 0 0;
+    color: white;
+    display: flex;
+}
+.description-left {
+    text-align: left;
+    width: 856px;
+
+}
+.description-h2 {
+    font-size: 48px;
+    line-height: 140%;
+}
+.description-text {
+}
+.description-btn {
+}
+
+
+.description-right {
+}
+.description-img {
+}
+.decription_btn-right {
+}
+.description_h3-left {
+}
+.description_text-left {
+} */

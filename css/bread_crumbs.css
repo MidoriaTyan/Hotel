@@ -1,0 +1,80 @@
+body, h1, h2, h3, p, ul, ol, li, figure, figcaption, blockquote, dl, dd {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    font-size: 16px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-image: url("/images/icons/bgc.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.row{
+    width: 1296px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.header {
+    margin: 18px 0 0 0;
+   
+}
+.header_row {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+}
+.header_icons {
+}
+.icon {
+    padding: 0 24px 0 0;
+
+}
+.header_str {
+    display: flex;
+    justify-content: center;
+    margin: 0 51.5px 0 51.5px;
+    color: white;
+    font-size: 14px;
+    line-height: 140%;
+
+
+}
+.header_str a {
+    padding: 0 40px 0 0;
+    text-decoration: none;
+    color: white;
+
+}
+.header_str a:last-child{
+    padding: 0;
+}
+.header_messanger {
+    margin: 0 40px 0 0;
+
+
+}
+.icon-mes {
+    padding: 0 32px 0 0;
+    cursor: pointer;
+
+}
+.icon-mes:last-child{
+    padding: 0;
+}
+
+.header_button {
+}
+.btn-white-min{
+padding: 12px 20px 12px 20px;
+border-radius: 8px;
+border: none;
+cursor: pointer;
+font-size: 13px;
+font-weight: 600;
+}
+
+
